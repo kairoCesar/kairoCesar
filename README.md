@@ -1,7 +1,6 @@
 # Kairo César
 
-Me chamo Kairo César, sou estudante de Análise e Desenvolvimento de Sistemas e tenho bastante interesse na carreira de desenvolvedor com foco em back-end.
-Há aproximadamente 2 meses, comecei a me dedicar aos estudos em programação, começando pela linguagem Java. Atualmente, estou desenvolvendo meu primeiro projeto, um simulador de cálculo do Simples Nacional, no qual apliquei os conceitos de Programação Orientada a objetos no seu desenvolvimento. À medida que eu avanço em meus estudos, pretendo expandir e aprimorar o simulador, tornando-o cada vez mais eficiente e útil.
+Me chamo Kairo César, sou estudante de Análise e Desenvolvimento de Sistemas e tenho bastante interesse na carreira de desenvolvedor com foco em back-end. Atualmente, estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas, na Universiade De Fortaleza (UNIFOR), e me aprofundando nos estudos da linguagem Java e do ecossistema Spring.
 
 
 
